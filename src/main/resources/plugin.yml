@@ -1,0 +1,8 @@
+name: PescaAFK
+version: 1.0
+main: me.pescafk.PescaAFK
+author: Daymon
+
+commands:
+  pesca:
+    description: Ativa ou desativa a pesca AFK
